@@ -1,5 +1,11 @@
 - Tao dự án Nodejs
+node init
 - Cai đăt express
+npm install express
+- Cài đăt middleware body parser của express để nhận body json
+npm instal body-parser
 - Tìm hiểu middleware của express
+  https://expressjs.com/en/guide/using-middleware.html
 - Kêt nối database MySql
+  https://expressjs.com/en/guide/database-integration.html#mysql
 - Midleware Auth
